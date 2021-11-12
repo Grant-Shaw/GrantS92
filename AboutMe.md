@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Grant
 
 - 👀 I’m interested in Crossplatform mobile app development
-- 🌱 I’m currently learning Flutter/Dart
+- 🌱 I’m currently learning Flutter/Dart and improving C# knowledge.
 - 📫 How to reach me ...If you're here, you already have my details
 
 <!---
